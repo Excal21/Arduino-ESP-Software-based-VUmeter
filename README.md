@@ -1,4 +1,4 @@
-# Arduino-ESP-Software-based-VUmeter
+# Arduino/ESP Software based VUmeter
 
 This is a hobby project built for fun. It uses the following library, called NAudio to get the master volume from your WindowsOS.
 Check out the NAudio repo: https://github.com/naudio/NAudio
